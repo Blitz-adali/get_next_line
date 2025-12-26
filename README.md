@@ -5,7 +5,9 @@
 Welcome to get_next_line 🌟, a flagship 42 project designed to master reading files line by line 📄. Each call returns a full line, including the newline character 🔤, while managing memory like a pro 💪.
 
 The challenge hones your skills in dynamic memory management 🧠, partial reads 📖, and buffer manipulation using low-level system calls 🔧. This implementation is clean 🧹, robust 🛡️, and tailored for 42 Next — precision guaranteed! 🎯
+
 🚀 Instructions 📋
+
 Compilation 🔨
 
 Compile your project alongside a test file:
